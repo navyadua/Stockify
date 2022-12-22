@@ -21,5 +21,6 @@ Selling Page
 Buying Page
 ![image](https://user-images.githubusercontent.com/91384754/209195033-d8f14f9d-eded-4b94-b161-eb490b7850e8.png)
 Learning Page
+
 ![image](https://user-images.githubusercontent.com/91384754/209195077-ed325c90-6c3f-4fb3-b336-2d259f4549c9.png)
 ![image](https://user-images.githubusercontent.com/91384754/209195134-33c41e1a-26ce-4139-abaa-511b01872cc0.png)
